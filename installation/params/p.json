@@ -1,50 +1,9 @@
-[{
-    "name" : "name1",
-    "typeId": 90,
-    "value": "0",
-    "paramSql" : "select level as cnt from dual connect by level < id.add_edit_del.cf.aed_number_1",
-    "description" : "testDescription",
-    "isReadOnly" : false,
-    "isHidden" : false
-}, {
-    "name" : "name3",
-    "typeId": 150,
-    "value": "",
-    "paramSql" : "select un, user_id as \"valueField\" from users order by upper(un)",
-    "description" : "testDescription",
-    "isReadOnly" : false,
-    "isHidden" : false
-}, {
-    "name" : "name4",
-    "typeId": 160,
-    "value": "",
-    "paramSql" : "",
-    "description" : "testDescription2",
-    "isReadOnly" : false,
-    "isHidden" : false
-}, {
-    "name" : "name5",
-    "typeId": 170,
-    "value": "",
-    "paramSql" : "",
-    "description" : "testDescription2",
-    "isReadOnly" : false,
-    "isHidden" : false
-}, {
-    "name" : "name6",
-    "typeId": 8,
-    "value": "",
-    "paramSql" : "",
-    "description" : "testDescription2",
-    "isReadOnly" : false,
-    "isHidden" : false
-}, 
+[
 {
   "name": "SystemInstructions",
   "paramDataType": "MEMO",
   "valueClob": "Default multi-line text... 111111 123 1 12",
-  "description": "... descriptiondescriptiondescription description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description   description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description  description ",
-  "isRequired": true,
+  "description": "... descriptiondescriptiondescription desction  description descriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescription descriptscription  descri descriptscription descriptscription descriptscription  descridescriptscription  descri descri descridescriptscription  descridescriptscription  descridescriptscription  descridescriptscription  descridescriptscription  descridescriptscription  descridescriptscription  descri"
   "isReadOnly" : true,
   "orderNumber": 5
 },
